@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "SdxUL32+IAm9HR+6ohLXfTK2QZLti02iPPh3/yPAYXSeUtOv7uKEdZAaBw5fTPnmE6j01TKRl0v5Aed1+3Qlzw==",
+  "success": true,
+  "projectFilePath": "/home/carlos/RiderProjects/DesafioWebApp/DesafioWebApp/DesafioWebApp.csproj",
+  "expectedPackageFiles": [
+    "/home/carlos/.nuget/packages/microsoft.netcore.app.ref/6.0.22/microsoft.netcore.app.ref.6.0.22.nupkg.sha512",
+    "/home/carlos/.nuget/packages/microsoft.aspnetcore.app.ref/6.0.22/microsoft.aspnetcore.app.ref.6.0.22.nupkg.sha512",
+    "/home/carlos/.nuget/packages/microsoft.netcore.app.host.linux-x64/6.0.22/microsoft.netcore.app.host.linux-x64.6.0.22.nupkg.sha512"
+  ],
+  "logs": []
+}
